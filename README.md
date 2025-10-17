@@ -14,6 +14,8 @@
 It provides an end-to-end workflow — from data preparation and tiling, to model training, evaluation, and geospatial export of predictions.
 
 The pipeline is optimized for **remote sensing and precision agriculture** use cases, where accurate delineation of features such as **tree crowns**, **crop parcels**, or **land cover types** is required.
+<img width="1269" height="439" alt="image" src="https://github.com/user-attachments/assets/a6399606-8247-43ea-ab28-301e9615c937" />
+<img width="1269" height="439" alt="image" src="https://github.com/user-attachments/assets/2d6d7f0b-31df-4b0b-981d-ea029b15d264" />
 
 ---
 
